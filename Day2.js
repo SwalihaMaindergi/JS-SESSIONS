@@ -305,4 +305,4 @@ mod();
 const div = (m,n) => {
     return m/n;
 }
-console.log(div (9,3));
+console.log(div (30,10));
